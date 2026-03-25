@@ -1,0 +1,4 @@
+This project, "Data-Driven Revenue: Optimizing a $1M B2B Marketing Spend," focuses on decoding the complex, multi-step journey of business-to-business customers to maximize marketing efficiency. 
+By merging granular user touchpoint data with lead quality metrics, the project moves beyond traditional "last-click" reporting to implement a Multi-Touch Attribution (MTA) framework.
+This approach provides a fair distribution of credit across all marketing channels—such as LinkedIn, Email, and Events—allowing for an accurate calculation of ROI and Cost Per Acquisition (CPA). 
+The final phase uses these insights to simulate a strategic $1,000,000 budget reallocation, demonstrating how shifting 20% of funds from high-cost "Laggard" channels to high-performing "Winners" can significantly grow the sales pipeline without increasing total expenditure.
